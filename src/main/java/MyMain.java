@@ -1,3 +1,5 @@
+//I worked with Chloe Burrows
+
 public class MyMain {
 
     // Calculate the probability of rolling at least one 6 when rolling 
